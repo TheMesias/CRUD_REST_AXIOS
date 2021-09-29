@@ -1,0 +1,1 @@
+se utiliza para que el consumo de apis pueda funcionar en cualquier dispositivo 
